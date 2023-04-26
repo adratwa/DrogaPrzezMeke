@@ -1,20 +1,15 @@
-# Darwin World Simulation - "Droga przez Meke"
+# Evolutionary World Simulation 
 
+This repository contains the source code for the "Evolutionary World Simulation" project created as part of the "Object-oriented Programming in Java" course at the AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications. 
 
-### Authors:
+## Authors
+Agata Dratwa <br> </br>
+Karol Augustyniak
 
-- Karol Augustyniak (poko09)
-- Agata Dratwa (adratwa)
+## Project Description
 
+The "Evolutionary World Simulation" is a simulation of the Darwinian world. The world consists of savannahs and jungles with plants and animals that eat, reproduce, and evolve over millions of years. Each animal has its own genotype, behavior, anatomy, reproduction method, consumption, and mutation. The application is built using JavaFX and allows for running simulations with different configurations, displaying animations with animal positions, their energy levels, plant positions, and tracking various simulation statistics. Parameters of the animals, maps and plants are loaded from the file so then can be adjusted in various ways. The main goal for the animals is to survive and pass on their genotype - only the strongest animals will survive.
 
-<b>Computer Science - Data Science<b>
-<b>AGH UST<b>
-<br> </br>
-### Description:
-
-"Evolutionary generator simulating a Darwinian world". In this project we created a special world for animals, whose main idea is to survive and spread their genotype. Only the best one will survive :) 
-
-<br> </br>
 ### Parameters:
 
 - heightOfMap 
@@ -31,16 +26,14 @@
 - mutationSelection
 - lengthOfGenotype
 
-<br> </br>
-
-### GUI
+## GUI
   
-- opening window
+### Opening window
   
   <img width="626" alt="opening_window" src="https://user-images.githubusercontent.com/71036264/227969424-bf08ef00-0de6-4dee-812e-555244699695.png">
 
   
-- visualization of simulations
+### visualization of simulations
   
   
   ![simulation](https://user-images.githubusercontent.com/71036264/227970095-ff08e34a-518f-49f1-a805-d49f0ec9094e.gif)
