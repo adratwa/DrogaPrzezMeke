@@ -3,8 +3,8 @@
 This repository contains the source code for the "Evolutionary World Simulation" project created as part of the "Object-oriented Programming in Java" course at the AGH University of Science and Technology, Faculty of Computer Science, Electronics and Telecommunications. 
 
 ## Authors
-Agata Dratwa <br> </br>
-Karol Augustyniak
+- Agata Dratwa 
+- Karol Augustyniak
 
 ## Project Description
 
@@ -33,7 +33,7 @@ The "Evolutionary World Simulation" is a simulation of the Darwinian world. The 
   <img width="626" alt="opening_window" src="https://user-images.githubusercontent.com/71036264/227969424-bf08ef00-0de6-4dee-812e-555244699695.png">
 
   
-### visualization of simulations
+### Visualization of simulations
   
   
   ![simulation](https://user-images.githubusercontent.com/71036264/227970095-ff08e34a-518f-49f1-a805-d49f0ec9094e.gif)
